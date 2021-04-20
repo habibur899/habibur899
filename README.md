@@ -6,8 +6,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=habibur899&theme=radical" alt="habibur899" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibur899&show_icons=true&locale=en&layout=compact&theme=radical&theme=radical" alt="habibur899" />
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibur899&layout=compactt&theme=radical" alt="habibur899" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=habibur899&show_icons=true&&theme=radical" alt="habibur899" /></p>
 
